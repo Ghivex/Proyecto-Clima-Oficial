@@ -1,3 +1,27 @@
-# Proyecto-Clima-Oficial
-Proyecto del clima, UTN
-Nueva seccion. Este proyecto analiza datos del clima de San Carlos de Bariloche\nLas integrantes son Leila Natasha Claribel Gomez Ortiz de la comisión 3 y Micaela Lilen Ibarra de la comisión 9
+# Proyecto Clima - Bariloche
+
+## Integrante
+- Leila Gomez
+
+## Escenario elegido
+Análisis de datos climáticos
+
+## Descripción
+Se analizaron datos meteorológicos de Bariloche durante una semana.
+
+## Objetivos
+- Temperatura promedio
+- Temperatura máxima y mínima
+- Análisis del clima
+- Gráfico de evolución
+
+## Archivos
+- /datos/bariloche_clima.csv
+- /resultados/grafico_bariloche.png
+
+## Herramientas
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+- GitHub
