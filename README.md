@@ -1,7 +1,8 @@
 # Proyecto Clima - Bariloche
 
-## Integrante
+## Integrantes
 - Leila Gomez
+- Micaela Ibarra
 
 ## Escenario elegido
 Análisis de datos climáticos
